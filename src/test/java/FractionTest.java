@@ -15,4 +15,3 @@ class FractionTest {
              assertEquals(0.5,this.fraction.decimal(),10e-5);
     }
 }
-
